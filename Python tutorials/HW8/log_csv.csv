@@ -1,0 +1,5 @@
+Directory,Existing directories,Existing files,Memory size
+/Users/meirzhankurmanov/Documents/GitHub/Python/Python tutorials/HW8/test_directory,"['dir2', 'dir3', 'dir1']",['.DS_Store'],36
+/Users/meirzhankurmanov/Documents/GitHub/Python/Python tutorials/HW8/test_directory/dir2,[],"['notebook1.ipynb', 'text3.txt']",9
+/Users/meirzhankurmanov/Documents/GitHub/Python/Python tutorials/HW8/test_directory/dir3,[],"['notebook2.ipynb', 'text4.txt']",9
+/Users/meirzhankurmanov/Documents/GitHub/Python/Python tutorials/HW8/test_directory/dir1,[],"['text1.txt', 'text2.txt']",18
